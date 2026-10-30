@@ -1,8 +1,8 @@
 ; Update list for Craft Max. Upload this next to mod.ini and the files folder.
-version=1.1
-99191d1b9c37728c8fbba2e8dfb9608f0bf2f789|mod.ini
+version=1.2
+6beb7d964615d4cc585b23261647d0f1aa64fd8d|mod.ini
 e07c612bba9c2b3dac3b0353cbcaf7e4299772a7|files/Data/ui/sp_addons/craft_max.txt
-ebb214fd984dd4923adbd579445778d3a12beafe|files/Data/ui/themes/rose/game/crafting.html
+b5122ec3ef0dfd92d0ef17dc9c04152b2ae039f5|files/Data/ui/themes/rose/game/crafting.html
 9419a051950bc7a749862d6ba19d7b93e64390fa|files/Data/ui/themes/rose/game/options_bgfx.html
 c9735755117dd4fa76a010d9d13085fefdd2dfb1|files/Data/ui/themes/rose/styles/sp_addons_steampunk.css
 0284ef27b24d89b2dfa20d4956773d170fd06ef1|files/Data/ui/themes/rose/styles/sp_addons_steampunk_sprites.css
