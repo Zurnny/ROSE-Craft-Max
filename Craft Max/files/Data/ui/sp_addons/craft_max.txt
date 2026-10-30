@@ -1,0 +1,2 @@
+craft_max
+; Marks the Craft Max add-on as installed. Removed again with the add-on.
